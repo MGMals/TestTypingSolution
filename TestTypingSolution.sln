@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{02EA681E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTypingApi", "TestTypingApi\TestTypingApi.csproj", "{B5B89B99-CCB4-F5BF-A105-7CDD8867755E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTypingSpeeds1", "TestTypingSpeeds1\TestTypingSpeeds1.csproj", "{7324AD44-C029-1C83-3256-C1CAB766099B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTypingSpeeds", "TestTypingSpeeds1\TestTypingSpeeds.csproj", "{7324AD44-C029-1C83-3256-C1CAB766099B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

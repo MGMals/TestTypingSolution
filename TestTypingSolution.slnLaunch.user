@@ -7,7 +7,7 @@
         "Action": "Start"
       },
       {
-        "Path": "TestTypingSpeeds1\\TestTypingSpeeds1.csproj",
+        "Path": "TestTypingSpeeds1\\TestTypingSpeeds.csproj",
         "Action": "Start"
       }
     ]
