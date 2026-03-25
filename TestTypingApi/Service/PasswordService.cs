@@ -8,19 +8,6 @@ namespace TestTypingApi.Service
 {
     public class PasswordService
     {
-        //private readonly PasswordHasher<TestTypeUser> _hasher = new();
-
-        //public string HashPassword(TestTypeUser user, string password)
-        //{
-        //    return _hasher.HashPassword(user, password);
-        //}
-
-        //public bool VerifyPassword(TestTypeUser user, string password)
-        //{
-        //    var result = _hasher.VerifyHashedPassword(user, user.PasswordHash, password);
-        //    return result == PasswordVerificationResult.Success;
-        //}
-
         public string HashPassword(string password)
         {
             byte[] salt = RandomNumberGenerator.GetBytes(16);

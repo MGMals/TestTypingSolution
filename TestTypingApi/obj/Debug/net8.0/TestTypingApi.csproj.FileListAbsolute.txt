@@ -764,3 +764,4 @@ C:\Users\danga\source\repos\TestTypingSolution\TestTypingApi\obj\Debug\net8.0\re
 C:\Users\danga\source\repos\TestTypingSolution\TestTypingApi\obj\Debug\net8.0\TestTypingApi.pdb
 C:\Users\danga\source\repos\TestTypingSolution\TestTypingApi\obj\Debug\net8.0\TestTypingApi.genruntimeconfig.cache
 C:\Users\danga\source\repos\TestTypingSolution\TestTypingApi\obj\Debug\net8.0\ref\TestTypingApi.dll
+C:\Users\danga\source\repos\TestTypingSolution\TestTypingApi\obj\Debug\net8.0\TestTypingApi.sourcelink.json

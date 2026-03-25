@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestTypingApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c2b76d66e5c671e312790b84b43c70d857e6da8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestTypingApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestTypingApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
