@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TestTypingApi\\TestTypingApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TestTypingSpeeds1\\TestTypingSpeeds1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
